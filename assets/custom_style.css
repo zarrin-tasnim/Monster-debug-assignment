@@ -1,0 +1,11 @@
+/* Blog link design for main html  */
+.blog-title {
+    color: white;
+    margin: 10px 0;
+    text-decoration: none;
+}
+
+
+.blogDetailsArea {
+    min-height: 380px;
+}
